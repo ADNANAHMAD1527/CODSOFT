@@ -1,1 +1,2 @@
-
+Project Description
+This project classifies iris flowers into three species: Setosa, Versicolor, and Virginica using machine learning techniques on the Iris dataset. The dataset contains 150 samples, each with four features: sepal length, sepal width, petal length, and petal width. The workflow includes data preprocessing, exploratory data analysis (EDA), model selection and training, evaluation, and hyperparameter tuning to achieve high classification accuracy.
